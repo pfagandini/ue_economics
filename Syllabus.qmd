@@ -1,0 +1,110 @@
+---
+title: "Syllabus - Economics"
+author: "Paulo Fagandini"
+institute: "Universidade Europeia"
+format: html
+lang: en
+editor: source
+page-layout: full
+---
+
+Bachelor's in Management\
+Faculty of Social Sciences and Technology\
+Academic Year: 2025/2026
+
+Course Unit: Economics \- English Track\
+Course Coordinator: João Rodrigues dos Santos, PhD
+
+Instructor: Paulo Fagandini, PhD\
+:email: paulo.fagandini@ext.universidadeeuropeia.pt\
+Year/Semester: 1<sup>st</sup> Year / 1<sup>st</sup> Semester  
+Weekly Hours: 3 Hours  
+ECTS: 6
+
+---
+
+### General Objective
+
+Intended Learning Outcomes (ILOs)
+
+1. Distinguish the purpose and methodology of economics.
+2. Describe the main problems facing Economics.
+3. Identify the differences between Macroeconomics and Microeconomics.
+4. Distinguish economic systems.
+5. Identify the factors that guide decision-making in perfect competition.
+6. Define demand and describe its explanatory factors.
+7. Explain the rationality of the behavior of producers in the market.
+8. Describe the behavior of economic agents in different market conditions.
+9. Characterize the main macroeconomic variables and the flows established between them.
+10. Familiarize students with different ways of measuring economic activity.
+11. Know the standard transactions and key account balances of the Balance of Payments.
+12. Provide students with a contact to economic policy themes, while outlining the main areas of policy, its objectives and instruments.
+
+---
+
+### Teaching Approach
+
+The course will primarily use the lecture method. However, whenever deemed beneficial, students will be encouraged to participate actively through problem-solving and tutorial exercises.
+
+---
+
+### Syllabus
+
+Not necessarily in that order.
+
+1. Introduction
+2. The Concept of Economics
+3. Micro Vs Macro
+4. The Economic Problem
+5. Economic Systems
+6. Demand
+7. Supply
+8. Market Equilibrium
+9. Consumer Theory
+10. Producer Theory
+11. Market Structure
+12. Imperfect Competition
+13. Introduction to Macroeconomics
+14. Neoclassical and Keynesian Schools of Thought
+15. National Accounts
+16. The Balance of Payments
+17. Keynesian Economics
+18. Money, Inflation, and Unemployment
+
+### Proof of syllabus' coherence with the unit's ILOs
+
+The syllabus is structured to meet the specific objectives of the Curricular Unit, both the theoretical aspects that form the basis of reasoning that students should develop, and their applicability in a professional context.
+
+---
+
+### Assessment Methods
+
+Students might opt for one of two assessment methods, continuous assessment or a final exam. Each of these methods are worth 100% of the final grade.
+
+#### Continuous Assessment
+
+Two individual tests, consisting of multiple choice and exercises that may include drawing graphs.
+
+1. Two midterm, each worth 50%.
+2. Minimum grade of 8.00 in each.
+3. Minimum of 70% attendance.
+
+#### Final Exam Assessment
+
+A single exam that covers all the topics of the course, worth 100% of the grade.
+
+---
+
+### Core Bibliography (EN)
+
+* Shapiro, D.; MacDonald, D.; Greenlaw, S. A. (2022). Principles of Economics 3<sup>e</sup>. OpenStax.
+* Dornbush, R.; Fischer, Stanley and Startz, R. (2017). Macroeconomics 13e. McGraw-Hill
+* Frank, R. H. (2020). Microeconomics and Behavior 10e. McGraw-Hill.
+* Frank, R. H; Bernanke, B. et al. (2021). Princíples of Economics 8e. McGraw-Hill.
+* G\"artner, M. (2016). Macroeconomics. 5th Edition. Financial Times Press, Harlow, England.
+* Introduction to Managerial Economics. (2022). Estados Unidos: Willford Press.
+* Samuelson, Paul; Nordhaus, William (2009), Economics 19e. McGraw-Hill.  
+
+### Core Bibliography (PT)
+
+* Santos, J. R. (2020). Economia Indispensável. Lisbon International Press.

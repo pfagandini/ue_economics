@@ -1,7 +1,7 @@
 ---
-title: "ue_economics"
+title: "Economics"
 ---
 
-This is a Quarto website.
+Here you can find all the information about the Economics course of the Bachelor in Management, at the Faculty of Social Sciences and Technology of the Universidade Europeia.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We will cover a brief general introduction to Economics, to move to the foundations of Microeconomics, reviewing Consumers, Producers, and Markets. Later on, we move to Macroeconomics, revising the main measures that allow us to understand the economy, study the macroeconomic equilibrium, the external sector, and economic policy.

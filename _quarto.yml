@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "ue_economics"
+  title: "Economics"
   navbar:
+    logo: pictures/ue_logo.svg
+    logo-href: https://www.universidadeeuropeia.pt
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Syllabus.qmd
+        text: Syllabus
+
 
 format:
   html:
